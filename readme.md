@@ -1,4 +1,4 @@
-# map-hk-transport-eta
+# mcp-hk-transport-eta
 
 This is an MCP server for API from [siri-shortcut-hk-bus-eta](https://github.com/kennyfong19931/siri-shortcut-hk-bus-eta) repo. It allows mcp clients to find Hong Kong transport route and next arrival.
 
