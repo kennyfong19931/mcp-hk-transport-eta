@@ -1,6 +1,6 @@
 {
   "name": "mcp-hk-transport-eta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Model Context Protocol server to get ETA (Estimated Time of Arrival) for public transport in Hong Kong",
   "type": "module",
   "main": "dist/index.js",
